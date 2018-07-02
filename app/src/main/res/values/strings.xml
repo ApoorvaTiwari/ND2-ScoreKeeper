@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Keep The Score</string>
+    <string name="team_a">Team A</string>
+    <string name="score_a">0</string>
+    <string name="point1">Point</string>
+    <string name="foul1">Foul</string>
+    <string name="team_b">Team B</string>
+    <string name="score_b">0</string>
+    <string name="point2">Point</string>
+    <string name="foul2">Foul</string>
+    <string name="reset2">Reset</string>
+</resources>
